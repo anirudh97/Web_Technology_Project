@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <!--===============================================================================================-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Education &mdash;</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="freehtml5.co" />
+
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="education/css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="education/css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="education/css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="education/css/magnific-popup.css">
+
+	<!-- Owl Carousel  -->
+	<link rel="stylesheet" href="education/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="education/css/owl.theme.default.min.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="education/css/flexslider.css">
+
+	<!-- Pricing -->
+	<link rel="stylesheet" href="education/css/pricing.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="education/css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="education/js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+    <title>Student Portal</title>
+
+    <style type="text/css">
+        table,
+        td,
+        tr {
+            border: 1px solid;
+        }
+    </style>
+
+    <script type="text/javascript">
+
+
+        xhr = new XMLHttpRequest();
+        xhr2 = new XMLHttpRequest();
+       
+        myRank = 10000;
+        username = '';
+
+        function getCookieValue(a) {
+            var b = document.cookie.match('(^|[^;]+)\\s*' + a + '\\s*=\\s*([^;]+)');
+            return b ? b.pop() : '';
+        }
+        function setup() {
+            getData();
+            obj.monitor();
+            // myRank = '<%= Session["Rank"] %>';
+            myRank = getCookieValue('Rank');
+            username = getCookieValue('username');
+
+            document.getElementById('yourRank').innerText = myRank;
+            // console.log(myRank);
+            // console.log(username);
+
+
+        }
+       
+        function getData() {
+            xhr2.open("GET", "getInfo.php?from=1", true);
+            xhr2.onreadystatechange = createTable;
+            xhr2.send();
+
+        }
+
+        function createTable() {
+            if (xhr2.readyState == 4 && xhr2.status == 200) {
+
+                document.getElementById('table').innerHTML = xhr2.responseText;
+                // addDeleteButons();
+                console.log(xhr2.responseText)
+                setInterval(getData, 10000);
+
+            }
+        }
+
+        function selectDept(deptName) {
+            document.getElementById('deptSelected').innerHTML = deptName;
+        }
+
+        function submitChoice() {
+            var deptName = document.getElementById('deptSelected').innerText;
+            xhr.open("POST", "selectSeat.php", true);
+            xhr.onreadystatechange = infoSubmit;
+            form = new FormData();
+            form.append("dept", deptName);
+
+            //NEEDS TO BE CHANGED LATER FOR THE RIGHT NAME.
+            form.append("student", username);
+            form.append("rank", myRank);
+
+
+            xhr.send(form);
+            document.getElementById('submitDept').hidden = false;
+
+
+        }
+
+        function infoSubmit() {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+
+                document.getElementById('status').innerHTML = xhr.responseText;
+                // addDeleteButons();
+                setInterval(getData, 10000);
+
+            }
+        }
+
+
+        var obj = {
+
+            monitor: function () {
+                console.log("setting up event");
+                var ev = new EventSource("currentRank.php");
+                ev.addEventListener("message", this.show, false);
+                ev.onerror = this.err;
+
+
+            },
+            show: function (e) {
+
+                //console.log(e.data);
+                if (e.data == myRank) {
+                    // console.log("time to select seat!");
+                    //alert("Time to select seat!");
+                    document.getElementById('submitDept').hidden = false;
+
+                    // setInterval(selectionTimeout, 1000);
+                }
+                else {
+                    document.getElementById('submitDept').hidden = true;
+                }
+
+                document.getElementById("currentRank").innerHTML = e.data;
+
+            },
+            err: function () {
+                console.log("error");
+            }
+
+        }
+
+
+        function selectionTimeout() {
+            document.getElementById('submitDept').hidden = false;
+
+        }
+
+
+
+    </script>
+</head>
+
+<body onload='setup()'>
+    <!-- <div class="w3-bar w3-border w3-round w3-light-grey">
+                <a href="studentDashboard.html" class="w3-bar-item w3-button">Home</a>
+                <a href="guidelines.html" class="w3-bar-item w3-button">College Guidelines</a>
+        </div> -->
+        <nav class="fh5co-nav" role="navigation">
+                <div class="top">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12 text-right">
+                                <p class="site">www.GeorgeBrownCollege.com</p>
+                                <p class="num">Call: +91 123 456 7890</p>
+                                <!-- <ul class="fh5co-social">
+                                    <li><a href="#"><i class="icon-facebook2"></i></a></li>
+                                    <li><a href="#"><i class="icon-twitter2"></i></a></li>
+                                    <li><a href="#"><i class="icon-dribbble2"></i></a></li>
+                                    <li><a href="#"><i class="icon-github"></i></a></li>
+                                </ul> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="top-menu">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-2">
+                                <div id="fh5co-logo"><a href="index.html"><i class="icon-study"></i>George Brown<span>.</span></a></div>
+                            </div>
+                            <div class="col-xs-10 text-right menu-1">
+                                <ul>
+                                    <li><a href="studentDashboard.html">Home</a></li>
+                                    <!-- <li class="active"><a href="about.html">Guideliness</a></li> -->
+                                    <!-- <li><a href="pricing.html">Pricing</a></li> -->
+                                    <li class="has-dropdown">
+                                        <!-- <a href="blog.html">Blog</a> -->
+                                        <ul class="dropdown">
+                                            <li><a href="#">Web Design</a></li>
+                                            <li><a href="#">eCommerce</a></li>
+                                            <li><a href="#">Branding</a></li>
+                                            <li><a href="#">API</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="contact.html">Predict Your Performance!!</a></li>
+                                    <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li> -->
+                                    <li class="btn-cta"><a href="#"><span><form action="logout.php" method="GET"><button type="submit">Logout</button></form></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </nav>
+
+    <div class="limiter">
+        <div class="container-table100">
+            <div class="wrap-table100">
+                <div class="table100">
+                    <!-- <div style="float: right;border: none;"> -->
+                        <!-- <form action="logout.php" method="GET">
+                            <input type="submit" value="Logout">
+                        </form> -->
+                    <!-- </div> -->
+                    <!-- <div style="float: center">
+                            <a href="contact.html">Predict Your Performance!!</a>
+                    </div> -->
+                    <p><h3 style="color: white">Deptarment Selected</h3></p>
+                    <br>
+                    <h4 style="color: white">
+                        <div id='deptSelected'></div>
+                    </h4>
+                    <br>
+                    <!-- <button id='submitDept' onclick="submitChoice()" hidden>Submit My Choice</button> -->
+                    <button id='submitDept' type="button" onclick = "submitChoice()" class="btn btn-default" hidden>Submit My Choice</button>
+
+                    <h4 style="color: white">
+                        <div id='status'></div>
+                    </h4>
+                    <div id='rankInfo'>
+                        <table>
+                            <tr>
+                                <td class="column1"><b>Your Rank</b></td>
+                                <td class="column1"><b><span id="yourRank"></span></b></td>
+                            </tr>
+                            <tr>
+                                <td class="column1"><b>Current Rank</b></td>
+                                <td class="column1"><b><span id="currentRank"></span></b></td>
+                            </tr>
+                        </table>
+                        <!-- <p><span id="yourRank"></span></p>
+		<p>Current Rank <span id="currentRank"></span></p> -->
+                    </div>
+                    <br>
+                    <div id='table'>
+
+                    </div>
+
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--===============================================================================================-->
+    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="js/main_tb.js"></script>
+    <!-- jQuery -->
+	<script src="education/js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="education/js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="education/js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="education/js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="education/js/jquery.stellar.min.js"></script>
+	<!-- Carousel -->
+	<script src="education/js/owl.carousel.min.js"></script>
+	<!-- Flexslider -->
+	<script src="education/js/jquery.flexslider-min.js"></script>
+	<!-- countTo -->
+	<script src="education/js/jquery.countTo.js"></script>
+	<!-- Magnific Popup -->
+	<script src="education/js/jquery.magnific-popup.min.js"></script>
+	<script src="education/js/magnific-popup-options.js"></script>
+	<!-- Count Down -->
+	<script src="education/js/simplyCountdown.js"></script>
+	<!-- Main -->
+	<script src="education/js/main.js"></script>
+</body>
+
+</html>

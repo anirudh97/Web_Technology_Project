@@ -1,0 +1,480 @@
+gender,PlaceofBirth,StageID,Topic,ParentAnsweringSurvey,ParentInteractionLevel,StudentAbsenceDays,Class
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,Yes,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Math,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Math,Yes,Good,Under-7,M
+F,Andhra Pradesh,MiddleSchool,Math,Yes,Good,Under-7,M
+F,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Math,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Math,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Assam,MiddleSchool,Math,No,Bad,Above-7,M
+F,Andhra Pradesh,MiddleSchool,Math,No,Bad,Above-7,H
+F,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Math,No,Bad,Above-7,M
+F,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Under-7,H
+F,Andhra Pradesh,MiddleSchool,IT,No,Bad,Above-7,M
+F,Andhra Pradesh,MiddleSchool,IT,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,IT,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,IT,Yes,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Science,Yes,Good,Under-7,M
+F,Andhra Pradesh,MiddleSchool,Arabic,No,Bad,Under-7,M
+F,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,English,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Science,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,English,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Science,Yes,Good,Above-7,M
+F,Rajasthan,MiddleSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,IT,No,Bad,Above-7,M
+F,Karnataka,MiddleSchool,Science,Yes,Good,Under-7,M
+F,Andhra Pradesh,MiddleSchool,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,IT,No,Good,Under-7,M
+M,Andhra Pradesh,HighSchool,IT,Yes,Good,Above-7,M
+F,Andhra Pradesh,HighSchool,IT,Yes,Good,Under-7,M
+F,Andhra Pradesh,HighSchool,IT,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Quran,No,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,English,No,Bad,Above-7,M
+F,Andhra Pradesh,HighSchool,English,Yes,Good,Under-7,H
+F,Andhra Pradesh,HighSchool,English,Yes,Good,Under-7,H
+F,Andhra Pradesh,HighSchool,English,Yes,Good,Under-7,M
+F,Andhra Pradesh,HighSchool,English,No,Bad,Above-7,M
+M,Andhra Pradesh,HighSchool,English,No,Good,Above-7,M
+F,Andhra Pradesh,HighSchool,English,No,Bad,Under-7,M
+F,Andhra Pradesh,HighSchool,Science,Yes,Good,Under-7,H
+M,Andhra Pradesh,HighSchool,English,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Math,Yes,Good,Above-7,M
+M,Tamil Nadu,MiddleSchool,Math,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Math,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Math,Yes,Good,Under-7,M
+F,Tamil Nadu,MiddleSchool,Math,No,Good,Under-7,M
+F,Bihar,lowerlevel,English,No,Good,Above-7,M
+M,Andhra Pradesh,HighSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,HighSchool,IT,Yes,Bad,Under-7,M
+M,Andhra Pradesh,HighSchool,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,HighSchool,English,No,Bad,Above-7,M
+F,Andhra Pradesh,HighSchool,English,No,Bad,Above-7,M
+F,Tamil Nadu,HighSchool,English,Yes,Good,Under-7,H
+F,Tamil Nadu,HighSchool,IT,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,IT,No,Bad,Under-7,M
+M,Bihar,MiddleSchool,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Math,No,Bad,Under-7,M
+F,Andhra Pradesh,MiddleSchool,English,Yes,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,IT,No,Bad,Under-7,M
+M,Bihar,MiddleSchool,Quran,Yes,Good,Under-7,M
+M,Orissa,HighSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,HighSchool,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,HighSchool,Quran,No,Bad,Above-7,M
+F,Assam,MiddleSchool,Math,Yes,Bad,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Math,Yes,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,H
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Karnataka,lowerlevel,IT,Yes,Good,Under-7,H
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,M
+F,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,H
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,H
+M,Tamil Nadu,lowerlevel,IT,Yes,Good,Under-7,H
+F,Andhra Pradesh,lowerlevel,IT,No,Good,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,H
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,H
+F,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,M
+F,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Bad,Under-7,M
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,H
+F,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Bad,Under-7,H
+M,Karnataka,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,M
+F,Bihar,lowerlevel,IT,Yes,Good,Under-7,H
+M,Andhra Pradesh,lowerlevel,IT,No,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,No,Good,Under-7,H
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+F,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+F,Assam,lowerlevel,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Good,Above-7,M
+F,Orissa,lowerlevel,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Under-7,M
+F,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Bihar,lowerlevel,IT,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Quran,Yes,Good,Under-7,H
+F,Rajasthan,MiddleSchool,Quran,Yes,Good,Under-7,H
+F,Tamil Nadu,HighSchool,Quran,Yes,Good,Under-7,H
+F,Tamil Nadu,HighSchool,Quran,No,Bad,Under-7,M
+F,Rajasthan,MiddleSchool,Quran,No,Bad,Under-7,H
+M,Tamil Nadu,MiddleSchool,Quran,No,Bad,Under-7,M
+M,Sikkim,MiddleSchool,Quran,Yes,Bad,Above-7,M
+M,Sikkim,MiddleSchool,Quran,No,Bad,Above-7,M
+M,Sikkim,MiddleSchool,Quran,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Quran,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Quran,No,Bad,Above-7,M
+M,Karnataka,MiddleSchool,Quran,Yes,Bad,Under-7,M
+F,Assam,MiddleSchool,Quran,Yes,Good,Under-7,H
+F,Assam,MiddleSchool,Quran,No,Bad,Under-7,M
+F,Bihar,MiddleSchool,Quran,No,Bad,Under-7,M
+F,Assam,MiddleSchool,Quran,Yes,Bad,Under-7,H
+M,Karnataka,HighSchool,Quran,Yes,Good,Under-7,H
+M,Tamil Nadu,HighSchool,Science,Yes,Good,Under-7,M
+F,Tamil Nadu,HighSchool,Science,Yes,Bad,Under-7,H
+M,Tamil Nadu,HighSchool,Spanish,No,Bad,Above-7,M
+M,Tamil Nadu,HighSchool,English,No,Bad,Above-7,M
+M,Tamil Nadu,HighSchool,Math,Yes,Bad,Under-7,H
+F,Tamil Nadu,HighSchool,French,Yes,Good,Under-7,M
+M,Sikkim,HighSchool,Science,No,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Science,No,Bad,Above-7,M
+F,Andhra Pradesh,MiddleSchool,Science,Yes,Good,Under-7,M
+F,Bihar,MiddleSchool,Science,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,Science,No,Bad,Under-7,M
+F,Bihar,lowerlevel,French,No,Bad,Under-7,H
+F,Tamil Nadu,lowerlevel,French,No,Bad,Above-7,M
+M,Bihar,lowerlevel,French,Yes,Good,Above-7,M
+F,West Bengal,lowerlevel,French,Yes,Good,Under-7,H
+M,Andhra Pradesh,lowerlevel,French,No,Bad,Under-7,M
+M,Sikkim,lowerlevel,French,Yes,Good,Under-7,H
+M,Andhra Pradesh,lowerlevel,French,Yes,Good,Under-7,H
+M,Andhra Pradesh,lowerlevel,French,No,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,French,Yes,Good,Under-7,H
+M,Andhra Pradesh,lowerlevel,French,No,Good,Under-7,M
+M,Orissa,lowerlevel,French,No,Good,Above-7,M
+M,Punjab,lowerlevel,French,Yes,Good,Above-7,M
+F,Bihar,lowerlevel,French,Yes,Bad,Above-7,M
+M,Orissa,lowerlevel,French,No,Bad,Above-7,M
+M,Sikkim,lowerlevel,French,Yes,Bad,Under-7,H
+F,Tamil Nadu,lowerlevel,French,Yes,Bad,Under-7,M
+F,Assam,lowerlevel,French,Yes,Bad,Under-7,H
+M,Assam,lowerlevel,French,No,Bad,Under-7,M
+F,Karnataka,lowerlevel,French,Yes,Bad,Under-7,H
+M,Bihar,lowerlevel,French,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Bad,Under-7,H
+F,Assam,MiddleSchool,Arabic,No,Bad,Under-7,M
+M,Assam,MiddleSchool,Arabic,No,Bad,Above-7,M
+M,Bihar,MiddleSchool,Arabic,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,M
+F,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,H
+F,Andhra Pradesh,MiddleSchool,Arabic,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,M
+M,West Bengal,MiddleSchool,Arabic,No,Bad,Under-7,M
+M,West Bengal,MiddleSchool,Arabic,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Arabic,No,Bad,Under-7,H
+M,West Bengal,MiddleSchool,Arabic,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Bad,Under-7,H
+F,Assam,MiddleSchool,Arabic,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,M
+F,Andhra Pradesh,MiddleSchool,Arabic,Yes,Bad,Under-7,M
+M,Bihar,MiddleSchool,Arabic,No,Bad,Above-7,M
+F,Karnataka,MiddleSchool,Arabic,Yes,Bad,Above-7,H
+M,Andhra Pradesh,MiddleSchool,Arabic,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,Yes,Good,Under-7,M
+M,Sikkim,MiddleSchool,Spanish,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,No,Bad,Under-7,M
+M,Karnataka,MiddleSchool,Spanish,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Spanish,No,Bad,Under-7,M
+M,Sikkim,MiddleSchool,Spanish,Yes,Good,Under-7,H
+M,Sikkim,MiddleSchool,Spanish,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,No,Good,Above-7,M
+M,Orissa,MiddleSchool,Spanish,Yes,Bad,Above-7,M
+F,Andhra Pradesh,MiddleSchool,Spanish,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,Yes,Bad,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Spanish,Yes,Good,Under-7,M
+M,Assam,MiddleSchool,Spanish,Yes,Good,Under-7,M
+M,Assam,MiddleSchool,Spanish,No,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,Yes,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Spanish,Yes,Bad,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Spanish,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,No,Bad,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Spanish,Yes,Good,Under-7,M
+M,Andhra Pradesh,HighSchool,Math,Yes,Good,Above-7,H
+M,Andhra Pradesh,MiddleSchool,Spanish,No,Bad,Above-7,M
+M,Orissa,MiddleSchool,Spanish,No,Bad,Above-7,M
+M,Bihar,MiddleSchool,Spanish,Yes,Good,Above-7,M
+M,Punjab,MiddleSchool,Quran,Yes,Good,Above-7,M
+F,Bihar,MiddleSchool,Science,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Science,Yes,Good,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Science,No,Bad,Above-7,M
+M,Bihar,MiddleSchool,Science,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Science,Yes,Good,Above-7,M
+F,Andhra Pradesh,MiddleSchool,Science,Yes,Good,Above-7,M
+M,Rajasthan,MiddleSchool,Science,Yes,Good,Under-7,H
+M,Andhra Pradesh,MiddleSchool,Science,Yes,Bad,Under-7,H
+M,Rajasthan,MiddleSchool,Science,Yes,Good,Under-7,M
+M,Andhra Pradesh,MiddleSchool,Science,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,Science,No,Bad,Above-7,M
+M,Andhra Pradesh,MiddleSchool,IT,Yes,Bad,Under-7,H
+F,Andhra Pradesh,MiddleSchool,IT,Yes,Bad,Under-7,M
+F,Andhra Pradesh,MiddleSchool,Science,Yes,Good,Under-7,H
+F,Andhra Pradesh,MiddleSchool,Math,No,Bad,Above-7,M
+F,Andhra Pradesh,MiddleSchool,Quran,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,IT,No,Good,Above-7,M
+M,Andhra Pradesh,lowerlevel,Math,Yes,Good,Under-7,H
+M,Rajasthan,lowerlevel,English,No,Good,Above-7,M
+F,Andhra Pradesh,lowerlevel,Science,No,Bad,Under-7,M
+M,Andhra Pradesh,lowerlevel,Arabic,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,English,Yes,Good,Under-7,H
+M,Andhra Pradesh,lowerlevel,History,Yes,Good,Under-7,H
+F,Andhra Pradesh,lowerlevel,History,No,Good,Under-7,H
+F,Andhra Pradesh,lowerlevel,History,No,Good,Under-7,M
+F,Andhra Pradesh,lowerlevel,History,Yes,Good,Under-7,M
+M,Andhra Pradesh,lowerlevel,English,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,History,No,Bad,Above-7,M
+M,Andhra Pradesh,lowerlevel,History,Yes,Bad,Above-7,M
+F,Andhra Pradesh,lowerlevel,History,Yes,Good,Above-7,M
+M,Rajasthan,lowerlevel,Math,No,Bad,Above-7,M
+F,Bihar,MiddleSchool,English,No,Bad,Under-7,M
+F,Bihar,MiddleSchool,English,No,Bad,Under-7,H
+M,Bihar,MiddleSchool,English,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,English,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,English,Yes,Bad,Above-7,M
+M,Bihar,MiddleSchool,English,Yes,Bad,Above-7,M
+F,Bihar,MiddleSchool,English,No,Good,Under-7,H
+F,Bihar,MiddleSchool,English,No,Good,Under-7,M
+M,Bihar,MiddleSchool,English,No,Bad,Under-7,M
+M,Bihar,MiddleSchool,English,No,Bad,Under-7,H
+F,Assam,MiddleSchool,English,Yes,Good,Under-7,H
+F,Assam,MiddleSchool,English,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,English,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,English,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,English,No,Good,Under-7,M
+M,Bihar,MiddleSchool,English,No,Good,Under-7,M
+M,Kerala,MiddleSchool,English,No,Good,Under-7,H
+M,Kerala,MiddleSchool,English,No,Good,Under-7,H
+F,Bihar,MiddleSchool,English,No,Good,Under-7,H
+F,Bihar,MiddleSchool,English,No,Good,Under-7,H
+M,Bihar,MiddleSchool,English,No,Bad,Above-7,M
+M,Bihar,MiddleSchool,English,Yes,Bad,Above-7,M
+F,Bihar,MiddleSchool,English,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,English,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,English,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,English,Yes,Good,Under-7,M
+F,Bihar,lowerlevel,Science,No,Bad,Above-7,M
+F,Bihar,lowerlevel,Science,No,Bad,Above-7,M
+F,Gujarat,lowerlevel,Science,Yes,Good,Under-7,H
+F,Gujarat,lowerlevel,Science,Yes,Good,Under-7,H
+M,Kerala,lowerlevel,Science,Yes,Good,Above-7,M
+M,Kerala,lowerlevel,Science,Yes,Good,Above-7,M
+F,Bihar,lowerlevel,Science,No,Good,Under-7,H
+F,Bihar,lowerlevel,Science,No,Good,Under-7,H
+M,Bihar,lowerlevel,Science,No,Good,Above-7,M
+M,Bihar,lowerlevel,Science,No,Good,Above-7,M
+M,Bihar,lowerlevel,Science,No,Bad,Above-7,M
+M,Bihar,lowerlevel,Science,No,Bad,Above-7,M
+F,Bihar,lowerlevel,Science,No,Bad,Under-7,M
+F,Bihar,lowerlevel,Science,No,Bad,Under-7,M
+F,Bihar,lowerlevel,Science,Yes,Bad,Under-7,M
+F,Bihar,lowerlevel,Science,Yes,Bad,Under-7,M
+M,Bihar,lowerlevel,Science,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,Science,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,Science,Yes,Good,Above-7,M
+M,Bihar,lowerlevel,Science,Yes,Good,Above-7,M
+M,Bihar,lowerlevel,Science,No,Good,Above-7,M
+M,Bihar,lowerlevel,Science,No,Good,Above-7,M
+F,Bihar,lowerlevel,Science,Yes,Good,Under-7,H
+F,Bihar,lowerlevel,Science,Yes,Good,Under-7,H
+F,Assam,lowerlevel,Science,Yes,Good,Under-7,H
+F,Assam,lowerlevel,Science,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,French,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,French,Yes,Good,Under-7,H
+F,Bihar,lowerlevel,French,Yes,Good,Under-7,H
+F,Bihar,lowerlevel,French,Yes,Good,Under-7,H
+F,Bihar,lowerlevel,French,Yes,Good,Above-7,M
+F,Bihar,lowerlevel,French,Yes,Good,Above-7,M
+M,Bihar,lowerlevel,French,No,Bad,Above-7,M
+M,Bihar,lowerlevel,French,No,Bad,Above-7,M
+M,Punjab,lowerlevel,French,No,Bad,Under-7,M
+M,Punjab,lowerlevel,French,No,Bad,Under-7,M
+M,Bihar,lowerlevel,French,No,Bad,Above-7,M
+M,Bihar,lowerlevel,French,No,Bad,Above-7,M
+F,Gujarat,lowerlevel,French,Yes,Good,Under-7,M
+F,Gujarat,lowerlevel,French,Yes,Good,Under-7,M
+M,Bihar,lowerlevel,French,No,Good,Above-7,M
+M,Bihar,lowerlevel,French,No,Good,Above-7,M
+F,Bihar,lowerlevel,French,No,Good,Under-7,M
+F,Bihar,lowerlevel,French,No,Good,Under-7,M
+M,Jammu Kashmir,lowerlevel,French,No,Good,Above-7,M
+M,Jammu Kashmir,lowerlevel,French,No,Good,Above-7,M
+F,Bihar,lowerlevel,French,No,Good,Under-7,M
+F,Bihar,lowerlevel,French,No,Good,Under-7,M
+F,Bihar,lowerlevel,French,No,Good,Under-7,M
+F,Bihar,lowerlevel,French,No,Good,Under-7,M
+F,Kerala,lowerlevel,French,No,Good,Under-7,M
+F,Kerala,lowerlevel,French,No,Good,Under-7,M
+M,Bihar,lowerlevel,French,No,Bad,Under-7,M
+M,Bihar,lowerlevel,French,No,Bad,Under-7,M
+F,Bihar,lowerlevel,French,No,Good,Under-7,H
+F,Bihar,lowerlevel,French,No,Good,Under-7,H
+F,Bihar,lowerlevel,French,No,Good,Under-7,H
+F,Bihar,lowerlevel,French,No,Good,Under-7,H
+M,Jammu Kashmir,lowerlevel,French,No,Good,Above-7,M
+M,Jammu Kashmir,lowerlevel,French,No,Good,Above-7,M
+M,Rajasthan,lowerlevel,French,No,Good,Above-7,M
+M,Rajasthan,lowerlevel,French,No,Good,Above-7,M
+F,Bihar,lowerlevel,French,Yes,Good,Under-7,M
+F,Bihar,lowerlevel,French,Yes,Good,Under-7,M
+M,Bihar,lowerlevel,French,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,French,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,French,Yes,Good,Under-7,M
+M,Bihar,lowerlevel,French,Yes,Good,Under-7,M
+F,Assam,lowerlevel,French,Yes,Good,Under-7,H
+F,Assam,lowerlevel,French,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,Arabic,Yes,Good,Above-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Good,Above-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,Arabic,Yes,Good,Under-7,H
+M,Kerala,lowerlevel,Arabic,Yes,Good,Under-7,H
+M,Kerala,lowerlevel,Arabic,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,Arabic,Yes,Good,Above-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Good,Above-7,M
+F,Bihar,lowerlevel,Arabic,No,Good,Under-7,H
+F,Bihar,lowerlevel,Arabic,No,Good,Under-7,H
+M,Bihar,lowerlevel,Arabic,No,Bad,Under-7,M
+M,Bihar,lowerlevel,Arabic,No,Bad,Under-7,M
+F,Bihar,lowerlevel,Arabic,No,Bad,Above-7,M
+F,Bihar,lowerlevel,Arabic,No,Bad,Above-7,M
+M,Bihar,lowerlevel,Arabic,No,Bad,Above-7,M
+M,Bihar,lowerlevel,Arabic,No,Bad,Above-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Bad,Above-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Bad,Above-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Bad,Above-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Bad,Above-7,M
+F,Bihar,lowerlevel,Arabic,No,Bad,Above-7,M
+F,Bihar,lowerlevel,Arabic,No,Bad,Above-7,M
+M,Kerala,lowerlevel,Arabic,Yes,Good,Under-7,H
+M,Kerala,lowerlevel,Arabic,Yes,Good,Under-7,H
+F,Kerala,lowerlevel,Arabic,Yes,Good,Under-7,H
+F,Kerala,lowerlevel,Arabic,Yes,Good,Under-7,H
+M,Bihar,lowerlevel,Arabic,Yes,Good,Under-7,M
+M,Bihar,lowerlevel,Arabic,Yes,Good,Under-7,M
+M,Karnataka,lowerlevel,Arabic,No,Good,Above-7,M
+M,Karnataka,lowerlevel,Arabic,No,Good,Above-7,M
+F,Bihar,MiddleSchool,Biology,Yes,Good,Above-7,M
+F,Bihar,MiddleSchool,Biology,Yes,Good,Above-7,M
+F,Kerala,MiddleSchool,Biology,Yes,Good,Under-7,H
+F,Kerala,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Gujarat,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Gujarat,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,Biology,Yes,Bad,Under-7,M
+M,Bihar,MiddleSchool,Biology,Yes,Bad,Under-7,M
+M,Gujarat,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Gujarat,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,Biology,No,Good,Above-7,M
+M,Bihar,MiddleSchool,Biology,No,Good,Above-7,M
+M,Bihar,MiddleSchool,Biology,No,Good,Under-7,H
+M,Bihar,MiddleSchool,Biology,No,Good,Under-7,H
+F,Punjab,MiddleSchool,Biology,Yes,Good,Under-7,H
+F,Punjab,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,Biology,No,Bad,Above-7,M
+M,Bihar,MiddleSchool,Biology,No,Bad,Above-7,M
+M,Bihar,MiddleSchool,Biology,No,Bad,Under-7,M
+M,Bihar,MiddleSchool,Biology,No,Bad,Under-7,M
+F,Bihar,MiddleSchool,Biology,No,Good,Under-7,H
+F,Bihar,MiddleSchool,Biology,No,Good,Under-7,H
+M,Bihar,MiddleSchool,Biology,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,Biology,Yes,Good,Under-7,M
+F,Jammu Kashmir,MiddleSchool,Biology,No,Good,Above-7,M
+F,Jammu Kashmir,MiddleSchool,Biology,No,Good,Above-7,M
+M,Kerala,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Kerala,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,Biology,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,Biology,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Geology,Yes,Good,Above-7,M
+F,Bihar,MiddleSchool,Geology,Yes,Good,Above-7,M
+F,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Above-7,M
+M,Karnataka,MiddleSchool,Chemistry,No,Bad,Above-7,M
+M,Karnataka,MiddleSchool,Chemistry,No,Bad,Above-7,M
+M,Karnataka,MiddleSchool,Geology,No,Bad,Under-7,H
+M,Karnataka,MiddleSchool,Geology,No,Bad,Under-7,H
+M,Karnataka,MiddleSchool,Geology,No,Bad,Under-7,M
+M,Karnataka,MiddleSchool,Geology,No,Bad,Under-7,M
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,History,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,History,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,Chemistry,Yes,Good,Above-7,M
+M,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,History,Yes,Good,Under-7,H
+M,Bihar,MiddleSchool,History,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Geology,Yes,Good,Above-7,M
+F,Bihar,MiddleSchool,Geology,Yes,Good,Above-7,M
+F,Bihar,MiddleSchool,History,Yes,Good,Under-7,M
+F,Bihar,MiddleSchool,History,Yes,Good,Under-7,M
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+M,Kerala,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+M,Kerala,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+M,Kerala,MiddleSchool,Geology,Yes,Good,Above-7,M
+M,Kerala,MiddleSchool,Geology,Yes,Good,Above-7,M
+M,Kerala,MiddleSchool,History,Yes,Good,Above-7,M
+M,Kerala,MiddleSchool,History,Yes,Good,Above-7,M
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Chemistry,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Geology,Yes,Good,Under-7,H
+F,Bihar,MiddleSchool,Chemistry,No,Bad,Above-7,M
+F,Bihar,MiddleSchool,Chemistry,No,Bad,Above-7,M
+M,Bihar,MiddleSchool,History,Yes,Good,Under-7,M
+M,Bihar,MiddleSchool,History,Yes,Good,Under-7,M
+M,Gujarat,MiddleSchool,Geology,Yes,Good,Under-7,M
+M,Gujarat,MiddleSchool,Geology,Yes,Good,Under-7,M
+F,Bihar,MiddleSchool,Chemistry,No,Bad,Above-7,M
+F,Bihar,MiddleSchool,Chemistry,No,Bad,Above-7,M
+F,Bihar,MiddleSchool,Geology,No,Bad,Under-7,M
+F,Bihar,MiddleSchool,Geology,No,Bad,Under-7,M
+F,Bihar,MiddleSchool,History,No,Bad,Above-7,M
+F,Bihar,MiddleSchool,History,No,Bad,Above-7,M

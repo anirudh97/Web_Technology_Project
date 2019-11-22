@@ -1,0 +1,314 @@
+Confidential Information
+Confidential information includes personal information (PI) as defined in the Freedom of
+
+Information and Protection of Privacy Act (FIPPA) and personal health information as defined in the Personal Health Information Protection Act, 2004 (PHIPA). It also includes information that is vital to the strategic planning and operation of the College that, if disclosed, may cause significant or irreparable financial or reputational damage to the College. Examples include, but are not limited to, student records, personnel files, trade secrets, intellectual property, financial budgets, significant innovation ideas yet to be patented, data and results of significant research projects yet to be published, etc.
+
+Scope of Access
+The “need to know” principle shall apply to all access requests for confidential information, meaning that only information that is absolutely required by the person requesting such access in order to carry out their duties as defined by their job functions will be released.
+
+Only information that is absolutely required by the external consultants in order to provide the goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants will be released.
+
+Personal Information
+If personal information (e.g. student name, employee ID, etc.) is within scope of access, such information shall be anonymized using masking techniques such as encryption, ID re‐sequencing, etc. so that associated information (e.g. birthday, grade) cannot be linked to the identifiable individual.
+
+The only exception will be in situations in which it is absolutely necessary to provide such information in its original format, and without which, there is no alternative for the person requesting such access to carry out their duties as defined by their job functions (or in the case of external consultants, to provide the goods and services as defined in the service agreement signed between The College and the vendor representing/employing the external consultants). Release of personal information to external consultants must have written approval from the business owner (Director/Chair level or above), including a description of the information to be released.
+
+Data Protection
+Storage
+Confidential information cannot be stored on any personally owned devices.
+Confidential information must be encrypted when stored locally on a mobile device (e.g. USB drive, laptop, etc.).
+Confidential information must be stored on the College owned or sanctioned devices.
+Where confidential information is to be stored/hosted externally, contractual protection must be in place to ensure that
+Such information is encrypted for the duration of the agreement and securely erased upon conclusion of the agreement or when it is no longer needed by the College (e.g. when the retention window of the information has expired as per applicable retention policy that governs it).
+Such information will not be used by storage service provider for any purposes other than what is needed to deliver the particular storage/hosting service unless explicit consent is obtained from the College
+Access to such information by personnel working for the storage service provider is limited to those who need such access to deliver the particular storage/hosting service and such personnel must have entered into an agreement with the storage service provider requiring them to be bound by applicable privacy and confidentiality provisions
+The College is the owner of its information and that the storage service provider’s role is to process/store/manage it on our behalf
+The College must be notified as soon as storage service provider becomes aware of a potential or actual breach of information it is hosting/storing on behalf of the College
+The College storage service provider shall fully co‐operate with the College in any investigation into any breaches of information it is hosting/storing on behalf of the College
+If storage service provider becomes legally compelled to disclose the College’s confidential information, it will provide the College with prompt notice to that effect in order to allow the College to seek one or more protective orders or other appropriate remedies to prevent or limit such disclosure, and shall co‐operate with The College and its legal counsel to the fullest extent.
+If such protective orders or other remedies are not obtained, storage service provider will disclose only that portion of the confidential information which it is legally compelled to disclose, only to such person or persons to which the Party is legally compelled to disclose
+Transmission
+Confidential information must be encrypted prior to transmission through an insecure media (e.g. Internet) or via a secure transport protocol.
+Confidential information cannot be sent in an email to an external email account
+Disposal
+External consultants who have control or custody of the College confidential information stored on non‐College owned IT equipment must ensure their secure and irreversible deletion when such information is no longer required.
+Any The College IT equipment that has confidential information stored on it must be securely wiped before disposal and a certificate of disposal must be produced.
+In accordance with The College’s Privacy Policy, prior to disposing of any record or device containing personal information, the individual must submit an “Authorization for the Disposal of Personal Information” form [TM4] to The College’s Diversity, Equity, Human Rights and Equity Services, Privacy Office for approval. In addition, personal information that has been used by the College must be retained for at least one year after use unless the individual to whom the information relates consents to its earlier disposal.
+Data Access
+An authentication mechanism must be put into place to ensure that only authorized personnel can have access to confidential information.
+Access to confidential information shall be restricted to staff who require the information to carry out their duties as defined by their job functions or to external consultants who require the information to successfully provide goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants.
+Access to confidential information shall be restricted to times of the day/week where access is required.
+Only the minimum level of access to confidential information (e.g. read only) that is required by staff to carry out their duties as defined by their job functions or by external consultants to successfully provide goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants will be granted.
+Written approval from director/chair level or above is required for all confidential information requests.
+Data Audit
+An audit trail shall exist to provide forensic evidence on when confidential information is accessed, by whom and from where.
+In the case of external consultants having access to confidential information, a written report setting out the name of each representative who has had access or may have access to personal information in connection with the provision of goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants shall be provided by the vendor on a regular basis (at least once every 3 months) or at any other time upon the College’s request for audit purposes.
+Confidentiality Agreement
+A confidentiality agreement shall be signed by College employees before any access to confidential information can be granted during the course of business.
+A confidentiality agreement must be signed by the authorized College representative before any access to confidential information can be granted to external consultants, a confidentiality agreement must be signed by a the College administrator (Chair or higher) and the external consultants and/or their representatives.
+Dealing with Requests to Access Confidential Information
+Below is a minimum set of questions that must be answered by the requestor and documented by the request reviewer/approver whenever a request is made to access confidential information:
+
+Business justification of the access request
+An itemized list of what needs to be accessed
+A list of individuals requiring access to requested information, their roles, reason for access, what they will do with the data, and if there is any specific timeframe that they’ll need to have access to such data
+Proof of existence of signed confidentiality agreement if requestor is an external consultant (e.g. confirmation email from the College project sponsor (director/chair level or above))
+Data Breach
+Suspected breach of personal information must be reported immediately to the Diversity, Equity and Human Rights Services office, Freedom of Information & Privacy Officer at privacyoffice@georgebrown.ca or 416-415-5000 ext. 4646.
+
+Any suspected cyber breach must be reported immediately to the helpdesk at helpdesk@georgebrown.ca at 416-415-5000 ext.4357.
+
+Questions
+For further information, contact the Freedom of Information & Privacy Officer at privacy@georgebrwon.ca or 416-415-5000 ext. 4646George Brown College (George Brown) is collecting the personal information requested under the authority of and for activities authorized by the Ontario Colleges of Applied Arts and Technology Act, 2002.
+
+This information will only be used by George Brown or its agents for the purposes specified and will not be sold or otherwise disclosed.
+
+If you have any questions or concerns related to Freedom of Information (FOI) and Protection of Privacy, please contact the FOI Coordinator for the college at 416-415-5000, ext. 4646.
+
+George Brown College Web Privacy Policy
+Respecting the privacy and confidentiality of your personal information is important to George Brown College. This Website Privacy Policy explains how George Brown College collects, uses and discloses your personal information on the George Brown College website (the “Website”).
+
+The purpose of this Policy is to make visitors to this Website aware of how George Brown College protects the privacy and confidentiality of your personal information and the circumstances under which George Brown College uses your personal information.
+
+Jurisdiction
+The terms and conditions under which you use this Website (including as it relates to this privacy policy) are governed by and interpreted solely in accordance with the laws of the Province of Ontario and no other jurisdiction. You are responsible for informing yourself of the laws of the jurisdiction and complying with those laws. Any litigation relating to the terms and conditions of use of this Website (including as it relates to this privacy policy) shall be brought solely within the Province of Ontario and shall be within the exclusive jurisdiction of the Courts of the Province of Ontario.
+
+What is personal information?
+Personal information is information about an identifiable individual, not including business contact information (i.e. information that would allow an individual to be contacted at their place of business, or work product information). For example, personal information includes such things as your name, date of birth, personal e-mail address, credit card information and other financial information about you.
+
+What are the purposes for collection, use and disclosure of personal information?
+George Brown College collects, uses and discloses your personal information with your knowledge and consent and only for purposes that we have identified prior to or at the time we collect the information. Some of the purposes for which George Brown College may collect, use and disclose your personal information on this Website are:
+
+To facilitate communication with you
+To grant you/enable you to access certain special features or areas of the Website
+To process any of your requests for information
+To make available to you through the Website certain services
+To permit you to subscribe to an E-mail List to receive information
+To administer participation in contests
+To announce special events
+George Brown College will not sell, trade, lend or otherwise voluntarily disclose to any third parties any personal information that you have provided to us for any purpose not identified under this Privacy Policy. George Brown College may share your personal information with third parties to assist us to administer activities on this Website, such as for website administration and maintenance, administration of contests and data processing, to our professional advisors or otherwise for legitimate and reasonable purposes for which we have obtained your prior consent.
+
+In certain circumstances, George Brown College may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where we have reasonable grounds to believe the information could be used in the investigation of an unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel production of information or to comply with court rules regarding a production of records and information, or to our own legal counsel.
+
+When you provide George Brown College with your personal information, such as to sign up to receive emails about our activities or participate in a contest, you are consenting to the collection, use and disclosure of your personal information for these purposes in accordance with the principles that are outlined in the Privacy Policy.
+
+If you have provided your consent and are receiving emails, you may at any time withdraw your consent by changing your preferences and unsubscribing.
+
+Use of technology on the website
+The Website uses cookie technology to make your use of the Website more convenient. A cookie is a text file which enables the Website to store any information about your activities on the Website or the length of your stay. If you choose to disable cookies associated with the Website, this may affect your use of the Website and your ability to access certain features of the Website.
+
+We also log visits to the Website. Our logs include data about visitors’ operating systems, web browser types and information about how users entered our site (e.g., search terms and links) and what users do on the Website. We use this data to understand how our website is located and used and to plan for future enhancements of our website. We log this information by IP address and, if you subscribe to one of our web based accounts, by your account.
+
+E-mail list
+The Website allows you to provide us with your e-mail address in order that we may send you information and updates about George Brown College. In order to administer the E-mail List we will collect your name, e-mail address, geographical location, school or work status and areas of interest for communication purposes.
+
+E-mail to a friend
+The Website may periodically allow you to provide an e-mail address of a friend and personal information about your friend. The Website will send new stories, links, e-cards, or other information to the friend’s e-mail address. We will assume that, to the extent that we are provided the e-mail address of your friends, you have the consent of your friend to provide us with their e-mail address. We will also assume that you have consented to the friend having your e-mail address. In order to administer this option, we may collect your name, e-mail address, any comments that you provide, as well as the e-mail address of your friend.
+
+Job Opportunities
+The Website allows you to submit an application for employment and your resume. The Website will be integrated with an electronic resume management system accessible to our human resources personnel. To administer the resume management system, we will collect your name, address and other information relating to your employment application including information regarding your education, work history and other qualifications.
+
+Links to other sites
+The Website contains links to other websites. When you click on of those links, you are connecting to an internet resource external to the George Brown College servers. George Brown College has no responsibility or liability for, or control over those Websites, or internet resources or their collection, use and disclosure of your personal information. Please refer to the privacy policy and terms of use contained in any linked site you choose to go to, and familiarize yourself with that Website’s terms and conditions of use.
+
+How do we protect your personal information?
+The Website endeavours to maintain appropriate procedural and technological measures and storage facilities to prevent any unauthorized use or disclosure of your personal information. We exercise care in the secure transmission of your information, however no transmission of information over the internet is one hundred percent secure. We cannot guarantee that information disclosed through the internet cannot be intercepted by third parties. However, George Brown College takes all reasonable precautions available to protect any personal information that is provided to it through the Website including, disposal or destruction of this information.
+
+Contacting us about your privacy
+You may request access to your personal information and information about our collection, use and disclosure of information by contacting us at privacy@georgebrown.ca. George Brown College attempts to keep records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information.
+
+This version of the Web Privacy Policy has been in effect since June 2009. This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted here. Your continued use of this Website, subsequent to any changes to the Privacy Policy, will signify that you consent to George Brown College's collection, use and disclosure of your personal information in accordance with this or any revised Privacy Policy.
+
+If you have any questions around Freedom of Information and Protection of Privacy, you may contact our Freedom of Information & Privacy Coordinator at the following address: privacy@georgebrown.ca.
+
+George Brown College Guidelines on Secure Handling of Confidential Information
+The College is committed to protecting the security and privacy of confidential information entrusted to the College by its employees, students, external clients and partners, during the course of business. These guidelines serve to summarize the principles governing the secure handling of the College’s confidential information. Employees/consultants found to be in violation of these guidelines, by either unintentionally or deliberately using or otherwise compromising corporate or personal information may face sanction. Employees may be subject to discipline, up to, and including, dismissal.
+
+Confidential Information
+Confidential information includes personal information (PI) as defined in the Freedom of
+
+Information and Protection of Privacy Act (FIPPA) and personal health information as defined in the Personal Health Information Protection Act, 2004 (PHIPA). It also includes information that is vital to the strategic planning and operation of the College that, if disclosed, may cause significant or irreparable financial or reputational damage to the College. Examples include, but are not limited to, student records, personnel files, trade secrets, intellectual property, financial budgets, significant innovation ideas yet to be patented, data and results of significant research projects yet to be published, etc.
+
+Scope of Access
+The “need to know” principle shall apply to all access requests for confidential information, meaning that only information that is absolutely required by the person requesting such access in order to carry out their duties as defined by their job functions will be released.
+
+Only information that is absolutely required by the external consultants in order to provide the goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants will be released.
+
+Personal Information
+If personal information (e.g. student name, employee ID, etc.) is within scope of access, such information shall be anonymized using masking techniques such as encryption, ID re‐sequencing, etc. so that associated information (e.g. birthday, grade) cannot be linked to the identifiable individual.
+
+The only exception will be in situations in which it is absolutely necessary to provide such information in its original format, and without which, there is no alternative for the person requesting such access to carry out their duties as defined by their job functions (or in the case of external consultants, to provide the goods and services as defined in the service agreement signed between The College and the vendor representing/employing the external consultants). Release of personal information to external consultants must have written approval from the business owner (Director/Chair level or above), including a description of the information to be released.
+
+Data Protection
+Storage
+Confidential information cannot be stored on any personally owned devices.
+Confidential information must be encrypted when stored locally on a mobile device (e.g. USB drive, laptop, etc.).
+Confidential information must be stored on the College owned or sanctioned devices.
+Where confidential information is to be stored/hosted externally, contractual protection must be in place to ensure that
+Such information is encrypted for the duration of the agreement and securely erased upon conclusion of the agreement or when it is no longer needed by the College (e.g. when the retention window of the information has expired as per applicable retention policy that governs it).
+Such information will not be used by storage service provider for any purposes other than what is needed to deliver the particular storage/hosting service unless explicit consent is obtained from the College
+Access to such information by personnel working for the storage service provider is limited to those who need such access to deliver the particular storage/hosting service and such personnel must have entered into an agreement with the storage service provider requiring them to be bound by applicable privacy and confidentiality provisions
+The College is the owner of its information and that the storage service provider’s role is to process/store/manage it on our behalf
+The College must be notified as soon as storage service provider becomes aware of a potential or actual breach of information it is hosting/storing on behalf of the College
+The College storage service provider shall fully co‐operate with the College in any investigation into any breaches of information it is hosting/storing on behalf of the College
+If storage service provider becomes legally compelled to disclose the College’s confidential information, it will provide the College with prompt notice to that effect in order to allow the College to seek one or more protective orders or other appropriate remedies to prevent or limit such disclosure, and shall co‐operate with The College and its legal counsel to the fullest extent.
+If such protective orders or other remedies are not obtained, storage service provider will disclose only that portion of the confidential information which it is legally compelled to disclose, only to such person or persons to which the Party is legally compelled to disclose
+Transmission
+Confidential information must be encrypted prior to transmission through an insecure media (e.g. Internet) or via a secure transport protocol.
+Confidential information cannot be sent in an email to an external email account
+Disposal
+External consultants who have control or custody of the College confidential information stored on non‐College owned IT equipment must ensure their secure and irreversible deletion when such information is no longer required.
+Any The College IT equipment that has confidential information stored on it must be securely wiped before disposal and a certificate of disposal must be produced.
+In accordance with The College’s Privacy Policy, prior to disposing of any record or device containing personal information, the individual must submit an “Authorization for the Disposal of Personal Information” form [TM4] to The College’s Diversity, Equity, Human Rights and Equity Services, Privacy Office for approval. In addition, personal information that has been used by the College must be retained for at least one year after use unless the individual to whom the information relates consents to its earlier disposal.
+Data Access
+An authentication mechanism must be put into place to ensure that only authorized personnel can have access to confidential information.
+Access to confidential information shall be restricted to staff who require the information to carry out their duties as defined by their job functions or to external consultants who require the information to successfully provide goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants.
+Access to confidential information shall be restricted to times of the day/week where access is required.
+Only the minimum level of access to confidential information (e.g. read only) that is required by staff to carry out their duties as defined by their job functions or by external consultants to successfully provide goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants will be granted.
+Written approval from director/chair level or above is required for all confidential information requests.
+Data Audit
+An audit trail shall exist to provide forensic evidence on when confidential information is accessed, by whom and from where.
+In the case of external consultants having access to confidential information, a written report setting out the name of each representative who has had access or may have access to personal information in connection with the provision of goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants shall be provided by the vendor on a regular basis (at least once every 3 months) or at any other time upon the College’s request for audit purposes.
+Confidentiality Agreement
+A confidentiality agreement shall be signed by College employees before any access to confidential information can be granted during the course of business.
+A confidentiality agreement must be signed by the authorized College representative before any access to confidential information can be granted to external consultants, a confidentiality agreement must be signed by a the College administrator (Chair or higher) and the external consultants and/or their representatives.
+Dealing with Requests to Access Confidential Information
+Below is a minimum set of questions that must be answered by the requestor and documented by the request reviewer/approver whenever a request is made to access confidential information:
+
+Business justification of the access request
+An itemized list of what needs to be accessed
+A list of individuals requiring access to requested information, their roles, reason for access, what they will do with the data, and if there is any specific timeframe that they’ll need to have access to such data
+Proof of existence of signed confidentiality agreement if requestor is an external consultant (e.g. confirmation email from the College project sponsor (director/chair level or above))
+Data Breach
+Suspected breach of personal information must be reported immediately to the Diversity, Equity and Human Rights Services office, Freedom of Information & Privacy Officer at privacyoffice@georgebrown.ca or 416-415-5000 ext. 4646.
+
+Any suspected cyber breach must be reported immediately to the helpdesk at helpdesk@georgebrown.ca at 416-415-5000 ext.4357.
+
+Questions
+For further information, contact the Freedom of Information & Privacy Officer at privacy@georgebrwon.ca or 416-415-5000 ext. 4646George Brown College (George Brown) is collecting the personal information requested under the authority of and for activities authorized by the Ontario Colleges of Applied Arts and Technology Act, 2002.
+
+This information will only be used by George Brown or its agents for the purposes specified and will not be sold or otherwise disclosed.
+
+If you have any questions or concerns related to Freedom of Information (FOI) and Protection of Privacy, please contact the FOI Coordinator for the college at 416-415-5000, ext. 4646.
+
+George Brown College Web Privacy Policy
+Respecting the privacy and confidentiality of your personal information is important to George Brown College. This Website Privacy Policy explains how George Brown College collects, uses and discloses your personal information on the George Brown College website (the “Website”).
+
+The purpose of this Policy is to make visitors to this Website aware of how George Brown College protects the privacy and confidentiality of your personal information and the circumstances under which George Brown College uses your personal information.
+
+Jurisdiction
+The terms and conditions under which you use this Website (including as it relates to this privacy policy) are governed by and interpreted solely in accordance with the laws of the Province of Ontario and no other jurisdiction. You are responsible for informing yourself of the laws of the jurisdiction and complying with those laws. Any litigation relating to the terms and conditions of use of this Website (including as it relates to this privacy policy) shall be brought solely within the Province of Ontario and shall be within the exclusive jurisdiction of the Courts of the Province of Ontario.
+
+What is personal information?
+Personal information is information about an identifiable individual, not including business contact information (i.e. information that would allow an individual to be contacted at their place of business, or work product information). For example, personal information includes such things as your name, date of birth, personal e-mail address, credit card information and other financial information about you.
+
+What are the purposes for collection, use and disclosure of personal information?
+George Brown College collects, uses and discloses your personal information with your knowledge and consent and only for purposes that we have identified prior to or at the time we collect the information. Some of the purposes for which George Brown College may collect, use and disclose your personal information on this Website are:
+
+To facilitate communication with you
+To grant you/enable you to access certain special features or areas of the Website
+To process any of your requests for information
+To make available to you through the Website certain services
+To permit you to subscribe to an E-mail List to receive information
+To administer participation in contests
+To announce special events
+George Brown College will not sell, trade, lend or otherwise voluntarily disclose to any third parties any personal information that you have provided to us for any purpose not identified under this Privacy Policy. George Brown College may share your personal information with third parties to assist us to administer activities on this Website, such as for website administration and maintenance, administration of contests and data processing, to our professional advisors or otherwise for legitimate and reasonable purposes for which we have obtained your prior consent.
+
+In certain circumstances, George Brown College may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where we have reasonable grounds to believe the information could be used in the investigation of an unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel production of information or to comply with court rules regarding a production of records and information, or to our own legal counsel.
+
+When you provide George Brown College with your personal information, such as to sign up to receive emails about our activities or participate in a contest, you are consenting to the collection, use and disclosure of your personal information for these purposes in accordance with the principles that are outlined in the Privacy Policy.
+
+If you have provided your consent and are receiving emails, you may at any time withdraw your consent by changing your preferences and unsubscribing.
+
+Use of technology on the website
+The Website uses cookie technology to make your use of the Website more convenient. A cookie is a text file which enables the Website to store any information about your activities on the Website or the length of your stay. If you choose to disable cookies associated with the Website, this may affect your use of the Website and your ability to access certain features of the Website.
+
+We also log visits to the Website. Our logs include data about visitors’ operating systems, web browser types and information about how users entered our site (e.g., search terms and links) and what users do on the Website. We use this data to understand how our website is located and used and to plan for future enhancements of our website. We log this information by IP address and, if you subscribe to one of our web based accounts, by your account.
+
+E-mail list
+The Website allows you to provide us with your e-mail address in order that we may send you information and updates about George Brown College. In order to administer the E-mail List we will collect your name, e-mail address, geographical location, school or work status and areas of interest for communication purposes.
+
+E-mail to a friend
+The Website may periodically allow you to provide an e-mail address of a friend and personal information about your friend. The Website will send new stories, links, e-cards, or other information to the friend’s e-mail address. We will assume that, to the extent that we are provided the e-mail address of your friends, you have the consent of your friend to provide us with their e-mail address. We will also assume that you have consented to the friend having your e-mail address. In order to administer this option, we may collect your name, e-mail address, any comments that you provide, as well as the e-mail address of your friend.
+
+Job Opportunities
+The Website allows you to submit an application for employment and your resume. The Website will be integrated with an electronic resume management system accessible to our human resources personnel. To administer the resume management system, we will collect your name, address and other information relating to your employment application including information regarding your education, work history and other qualifications.
+
+Links to other sites
+The Website contains links to other websites. When you click on of those links, you are connecting to an internet resource external to the George Brown College servers. George Brown College has no responsibility or liability for, or control over those Websites, or internet resources or their collection, use and disclosure of your personal information. Please refer to the privacy policy and terms of use contained in any linked site you choose to go to, and familiarize yourself with that Website’s terms and conditions of use.
+
+How do we protect your personal information?
+The Website endeavours to maintain appropriate procedural and technological measures and storage facilities to prevent any unauthorized use or disclosure of your personal information. We exercise care in the secure transmission of your information, however no transmission of information over the internet is one hundred percent secure. We cannot guarantee that information disclosed through the internet cannot be intercepted by third parties. However, George Brown College takes all reasonable precautions available to protect any personal information that is provided to it through the Website including, disposal or destruction of this information.
+
+Contacting us about your privacy
+You may request access to your personal information and information about our collection, use and disclosure of information by contacting us at privacy@georgebrown.ca. George Brown College attempts to keep records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information.
+
+This version of the Web Privacy Policy has been in effect since June 2009. This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted here. Your continued use of this Website, subsequent to any changes to the Privacy Policy, will signify that you consent to George Brown College's collection, use and disclosure of your personal information in accordance with this or any revised Privacy Policy.
+
+If you have any questions around Freedom of Information and Protection of Privacy, you may contact our Freedom of Information & Privacy Coordinator at the following address: privacy@georgebrown.ca.
+
+George Brown College Guidelines on Secure Handling of Confidential Information
+The College is committed to protecting the security and privacy of confidential information entrusted to the College by its employees, students, external clients and partners, during the course of business. These guidelines serve to summarize the principles governing the secure handling of the College’s confidential information. Employees/consultants found to be in violation of these guidelines, by either unintentionally or deliberately using or otherwise compromising corporate or personal information may face sanction. Employees may be subject to discipline, up to, and including, dismissal.
+
+Confidential Information
+Confidential information includes personal information (PI) as defined in the Freedom of
+
+Information and Protection of Privacy Act (FIPPA) and personal health information as defined in the Personal Health Information Protection Act, 2004 (PHIPA). It also includes information that is vital to the strategic planning and operation of the College that, if disclosed, may cause significant or irreparable financial or reputational damage to the College. Examples include, but are not limited to, student records, personnel files, trade secrets, intellectual property, financial budgets, significant innovation ideas yet to be patented, data and results of significant research projects yet to be published, etc.
+
+Scope of Access
+The “need to know” principle shall apply to all access requests for confidential information, meaning that only information that is absolutely required by the person requesting such access in order to carry out their duties as defined by their job functions will be released.
+
+Only information that is absolutely required by the external consultants in order to provide the goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants will be released.
+
+Personal Information
+If personal information (e.g. student name, employee ID, etc.) is within scope of access, such information shall be anonymized using masking techniques such as encryption, ID re‐sequencing, etc. so that associated information (e.g. birthday, grade) cannot be linked to the identifiable individual.
+
+The only exception will be in situations in which it is absolutely necessary to provide such information in its original format, and without which, there is no alternative for the person requesting such access to carry out their duties as defined by their job functions (or in the case of external consultants, to provide the goods and services as defined in the service agreement signed between The College and the vendor representing/employing the external consultants). Release of personal information to external consultants must have written approval from the business owner (Director/Chair level or above), including a description of the information to be released.
+
+Data Protection
+Storage
+Confidential information cannot be stored on any personally owned devices.
+Confidential information must be encrypted when stored locally on a mobile device (e.g. USB drive, laptop, etc.).
+Confidential information must be stored on the College owned or sanctioned devices.
+Where confidential information is to be stored/hosted externally, contractual protection must be in place to ensure that
+Such information is encrypted for the duration of the agreement and securely erased upon conclusion of the agreement or when it is no longer needed by the College (e.g. when the retention window of the information has expired as per applicable retention policy that governs it).
+Such information will not be used by storage service provider for any purposes other than what is needed to deliver the particular storage/hosting service unless explicit consent is obtained from the College
+Access to such information by personnel working for the storage service provider is limited to those who need such access to deliver the particular storage/hosting service and such personnel must have entered into an agreement with the storage service provider requiring them to be bound by applicable privacy and confidentiality provisions
+The College is the owner of its information and that the storage service provider’s role is to process/store/manage it on our behalf
+The College must be notified as soon as storage service provider becomes aware of a potential or actual breach of information it is hosting/storing on behalf of the College
+The College storage service provider shall fully co‐operate with the College in any investigation into any breaches of information it is hosting/storing on behalf of the College
+If storage service provider becomes legally compelled to disclose the College’s confidential information, it will provide the College with prompt notice to that effect in order to allow the College to seek one or more protective orders or other appropriate remedies to prevent or limit such disclosure, and shall co‐operate with The College and its legal counsel to the fullest extent.
+If such protective orders or other remedies are not obtained, storage service provider will disclose only that portion of the confidential information which it is legally compelled to disclose, only to such person or persons to which the Party is legally compelled to disclose
+Transmission
+Confidential information must be encrypted prior to transmission through an insecure media (e.g. Internet) or via a secure transport protocol.
+Confidential information cannot be sent in an email to an external email account
+Disposal
+External consultants who have control or custody of the College confidential information stored on non‐College owned IT equipment must ensure their secure and irreversible deletion when such information is no longer required.
+Any The College IT equipment that has confidential information stored on it must be securely wiped before disposal and a certificate of disposal must be produced.
+In accordance with The College’s Privacy Policy, prior to disposing of any record or device containing personal information, the individual must submit an “Authorization for the Disposal of Personal Information” form [TM4] to The College’s Diversity, Equity, Human Rights and Equity Services, Privacy Office for approval. In addition, personal information that has been used by the College must be retained for at least one year after use unless the individual to whom the information relates consents to its earlier disposal.
+Data Access
+An authentication mechanism must be put into place to ensure that only authorized personnel can have access to confidential information.
+Access to confidential information shall be restricted to staff who require the information to carry out their duties as defined by their job functions or to external consultants who require the information to successfully provide goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants.
+Access to confidential information shall be restricted to times of the day/week where access is required.
+Only the minimum level of access to confidential information (e.g. read only) that is required by staff to carry out their duties as defined by their job functions or by external consultants to successfully provide goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants will be granted.
+Written approval from director/chair level or above is required for all confidential information requests.
+Data Audit
+An audit trail shall exist to provide forensic evidence on when confidential information is accessed, by whom and from where.
+In the case of external consultants having access to confidential information, a written report setting out the name of each representative who has had access or may have access to personal information in connection with the provision of goods and services as defined in the service agreement signed between the College and the vendor representing/employing the external consultants shall be provided by the vendor on a regular basis (at least once every 3 months) or at any other time upon the College’s request for audit purposes.
+Confidentiality Agreement
+A confidentiality agreement shall be signed by College employees before any access to confidential information can be granted during the course of business.
+A confidentiality agreement must be signed by the authorized College representative before any access to confidential information can be granted to external consultants, a confidentiality agreement must be signed by a the College administrator (Chair or higher) and the external consultants and/or their representatives.
+Dealing with Requests to Access Confidential Information
+Below is a minimum set of questions that must be answered by the requestor and documented by the request reviewer/approver whenever a request is made to access confidential information:
+
+Business justification of the access request
+An itemized list of what needs to be accessed
+A list of individuals requiring access to requested information, their roles, reason for access, what they will do with the data, and if there is any specific timeframe that they’ll need to have access to such data
+Proof of existence of signed confidentiality agreement if requestor is an external consultant (e.g. confirmation email from the College project sponsor (director/chair level or above))
+Data Breach
+Suspected breach of personal information must be reported immediately to the Diversity, Equity and Human Rights Services office, Freedom of Information & Privacy Officer at privacyoffice@georgebrown.ca or 416-415-5000 ext. 4646.
+
+Any suspected cyber breach must be reported immediately to the helpdesk at helpdesk@georgebrown.ca at 416-415-5000 ext.4357.
+
+Questions
+For further information, contact the Freedom of Information & Privacy Officer at privacy@georgebrwon.ca or 416-415-5000 ext. 4646

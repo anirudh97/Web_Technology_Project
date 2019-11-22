@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Education</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
+	<link rel="stylesheet" href="education/css/animate.css">
+	<link rel="stylesheet" href="education/css/icomoon.css">
+	<link rel="stylesheet" href="education/css/bootstrap.css">
+	<link rel="stylesheet" href="education/css/magnific-popup.css">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="education/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="education/css/flexslider.css">
+	<link rel="stylesheet" href="education/css/pricing.css">
+	<link rel="stylesheet" href="education/css/style.css">
+	<script src="js/modernizr-2.6.2.min.js"></script>
+        <script>
+            xhr_pre = new XMLHttpRequest()
+            function disp_pred(){
+            if(xhr_pre.readyState == 4 && xhr_pre.status == 200){
+                if(xhr_pre.responseText == "H"){
+                    document.getElementById('per').innerHTML = "Your ward is expected to do well"
+                }
+                else{
+                    document.getElementById('per').innerHTML = "Your ward has to work a little harder"
+                }
+            }
+        }
+            function getData(){
+                xhr_pre.open("GET","predict.php",true)
+            xhr_pre.onreadystatechange = disp_pred
+            xhr_pre.send()
+            }
+            
+        </script>
+	</head>
+	<body onload = "getData()">
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<div class="top">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 text-right">
+						<p class="site">www.GeorgeBrownCollege.com</p>
+						<p class="num">Call: +91 123 456 7890</p>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="top-menu">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-2">
+						<div id="fh5co-logo"><a href="index.html"><i class="icon-study"></i>George Brown<span>.</span></a></div>
+					</div>
+					<div class="col-xs-10 text-right menu-1">
+						<ul>
+							<li class="active"><a href="studentDashboard.html">Home</a></li>
+							<!-- <li><a href="about.html">Guideliness</a></li> -->
+							<li class="has-dropdown">
+
+								<ul class="dropdown">
+									<li><a href="#">Web Design</a></li>
+									<li><a href="#">eCommerce</a></li>
+									<li><a href="#">Branding</a></li>
+									<li><a href="#">API</a></li>
+								</ul>
+							</li>
+							<!-- <li class="btn-cta"><a href="../index.html"><span>Login</span></a></li>
+							<li class="btn-cta"><a href="../signup.html"><span>Sign Up</span></a></li> -->
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</nav>
+	
+	<aside id="fh5co-hero">
+		<div class="flexslider">
+			<ul class="slides">
+		   	<li style="background-image: url(images/img_bg_1.jpg);">
+		   		<div class="overlay-gradient"></div>
+		   		<div class="container">
+		   			<div class="row">
+			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
+			   				<div class="slider-text-inner">
+                                <!-- <p><h1 style="color: white"></h1></p> -->
+                                <p><h1 style="color: white" id="per"></h1></p>
+								
+			   				</div>
+			   			</div>
+			   		</div>
+		   		</div>
+		   	</li>
+		  	</ul>
+	  	</div>
+	</aside>
+
+	<script src="education/js/jquery.min.js"></script>
+
+	<script src="education/js/jquery.easing.1.3.js"></script>
+
+	<script src="education/js/bootstrap.min.js"></script>
+	<script src="education/js/jquery.waypoints.min.js"></script>
+	<script src="education/js/jquery.stellar.min.js"></script>
+	<script src="education/js/owl.carousel.min.js"></script>
+	<script src="education/js/jquery.flexslider-min.js"></script>
+	<script src="education/js/jquery.countTo.js"></script>
+	<script src="education/js/jquery.magnific-popup.min.js"></script>
+	<script src="education/js/magnific-popup-options.js"></script>
+	<script src="education/js/simplyCountdown.js"></script>
+	<script src="education/js/main.js"></script>
+	<script>
+    var d = new Date(new Date().getTime() + 1000 * 120 * 120 * 2000);
+
+    simplyCountdown('.simply-countdown-one', {
+        year: d.getFullYear(),
+        month: d.getMonth() + 1,
+        day: d.getDate()
+    });
+
+    $('#simply-countdown-losange').simplyCountdown({
+        year: d.getFullYear(),
+        month: d.getMonth() + 1,
+        day: d.getDate(),
+        enableUtc: false
+    });
+	</script>
+	</body>
+</html>
+
