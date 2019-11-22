@@ -13,7 +13,7 @@ Enter the following URL on your browser: localhost/education/index.html
 Install XAMPP
 
 Install python3<br/>
-  Dependencies<br/>
+  &nbsp;Dependencies<br/>
     flask<br/>
     scikit-learn<br/>
     numpy<br/>
