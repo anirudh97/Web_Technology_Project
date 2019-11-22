@@ -10,9 +10,8 @@ Run appp.py<br/>
 Enter the following URL on your browser: localhost/education/index.html 
 
 ### Prerequisites
-Install XAMPP
-Install python3<br/>
-  &nbsp;Dependencies<br/>
+Install XAMPP<br/>
+Install python3 Dependencies<br/>
     &nbsp;&nbsp;&nbsp;flask<br/>
     &nbsp;&nbsp;&nbsp;scikit-learn<br/>
     &nbsp;&nbsp;&nbsp;numpy<br/>
