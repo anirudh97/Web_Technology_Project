@@ -2,12 +2,12 @@
 Student Counselling Portal for seat selection in a particular college.
 
 ## Getting Started
-Run Apache Server
-Run MySQL
-  Create a Database called credentials
+Run Apache Server <br/>
+Run MySQL <br/>
+  Create a Database called credentials<br/>
   Create a table called users(username,pwd,ranking)
-Run ### appp.py
-Enter the following URL on your browser: ### localhost/education/index.html 
+Run appp.py
+Enter the following URL on your browser: localhost/education/index.html 
 
 ### Prerequisites
 Install XAMPP
